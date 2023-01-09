@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, HashRouter} from 'react-router-dom';
 import ReactDOM from 'react-dom/client';
 import Home from './components/Home';
 import Nav from './components/Nav';
@@ -32,14 +32,14 @@ function App(props){
 
 	
 	return(
-		<Router>
+		<HashRouter>
 			<Nav count={cn}></Nav>
 			<Routes>
 				<Route path='/' element={<Home name={'bf'}></Home>}></Route>
 				<Route path='/store' element={<Store changeName={changeName} setResponse={setResponse} response={response} ></Store>}></Route>
 				<Route path='/cart' element={<Cart setResponse={setResponse} response={response}></Cart>}></Route>
 			</Routes>
-		</Router>
+		</HashRouter>
 	)
 }
 export default App

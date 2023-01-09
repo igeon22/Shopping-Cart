@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.204a4f8b.css",
+    "main.js": "/Shopping-Cart/static/js/main.5d5ac05e.js",
+    "static/media/lisbon.jpg": "/Shopping-Cart/static/media/lisbon.751b538056b96fed712f.jpg",
+    "static/media/beach-99388.jpg": "/Shopping-Cart/static/media/beach-99388.37e0e8a02a685fecc121.jpg",
+    "static/media/rome.jpg": "/Shopping-Cart/static/media/rome.b46f54c54071e032dd3f.jpg",
+    "static/media/chinatown.jpg": "/Shopping-Cart/static/media/chinatown.5a15e806a278767d61ea.jpg",
+    "static/media/rio-de-janeiro.jpg": "/Shopping-Cart/static/media/rio-de-janeiro.a4b4b1a2fe5e7c35822a.jpg",
+    "static/media/montreal.jpg": "/Shopping-Cart/static/media/montreal.80e481720f3ab1756e22.jpg",
+    "static/media/monaco.jpg": "/Shopping-Cart/static/media/monaco.75a0c834c5d093121755.jpg",
+    "static/media/santorini.jpg": "/Shopping-Cart/static/media/santorini.988159501903d3a88cf8.jpg",
+    "static/media/doha.jpg": "/Shopping-Cart/static/media/doha.ff2e7b10ad595a5eac8f.jpg",
+    "static/media/switzerland.jpg": "/Shopping-Cart/static/media/switzerland.8e34071f82df0b8bb8cb.jpg",
+    "static/media/taj-mahal.jpg": "/Shopping-Cart/static/media/taj-mahal.0115879ca937bfc201af.jpg",
+    "static/media/eiffel-tower.jpg": "/Shopping-Cart/static/media/eiffel-tower.58e8383c1da5360bee86.jpg",
+    "static/media/landscape-7591671_1920.jpg": "/Shopping-Cart/static/media/landscape-7591671_1920.d0112b2736715f3a3d48.jpg",
+    "static/media/berlin.jpg": "/Shopping-Cart/static/media/berlin.82a868dc471d1b73f687.jpg",
+    "static/media/moscow.jpg": "/Shopping-Cart/static/media/moscow.b99eeb91ab2c787467b6.jpg",
+    "static/media/city-1283801_1920.jpg": "/Shopping-Cart/static/media/city-1283801_1920.ac8a36c9b60864e92ec4.jpg",
+    "static/media/maldives.jpg": "/Shopping-Cart/static/media/maldives.34162a1bd8ad944c83aa.jpg",
+    "static/media/honolulu.jpg": "/Shopping-Cart/static/media/honolulu.f6e7eac40352e1413d64.jpg",
+    "static/media/buenos-aires.jpg": "/Shopping-Cart/static/media/buenos-aires.602e8fb634ba74171315.jpg",
+    "static/media/tokyo.jpg": "/Shopping-Cart/static/media/tokyo.6357ee7796e0f65b847b.jpg",
+    "static/media/madrid.jpg": "/Shopping-Cart/static/media/madrid.82608b3b7b9374590a69.jpg",
+    "static/media/burj-khalifa.jpg": "/Shopping-Cart/static/media/burj-khalifa.40b827d1b4a3a74b9e0a.jpg",
+    "static/media/cathedral.jpg": "/Shopping-Cart/static/media/cathedral.bb7e0539d156757a0476.jpg",
+    "static/media/tripoli.jpg": "/Shopping-Cart/static/media/tripoli.4c800cfd0ef20c13f46e.jpg",
+    "static/media/caracas.jpg": "/Shopping-Cart/static/media/caracas.97978c9b3776b4e46573.jpg",
+    "static/media/san-francisco.jpg": "/Shopping-Cart/static/media/san-francisco.5610c3ead26c6e1b8ce5.jpg",
+    "static/media/cape town.jpg": "/Shopping-Cart/static/media/cape town.3723840b5a4079710488.jpg",
+    "static/media/jefferson-memorial.jpg": "/Shopping-Cart/static/media/jefferson-memorial.f4f5c28a48a1a3964e3a.jpg",
+    "static/media/jpg": "/Shopping-Cart/static/media/f205895ef4bb436229529dcf9dbd493c.08c5e5d7683be0e1bcd2.jpg",
+    "static/media/logo.svg": "/Shopping-Cart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shopping-Cart/index.html",
+    "main.204a4f8b.css.map": "/Shopping-Cart/static/css/main.204a4f8b.css.map",
+    "main.5d5ac05e.js.map": "/Shopping-Cart/static/js/main.5d5ac05e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204a4f8b.css",
+    "static/js/main.5d5ac05e.js"
+  ]
+}
